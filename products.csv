@@ -1,0 +1,204 @@
+key,productType.key	,productType.typeId	,name.en	,description.en	,categories,slug.en,searchKeywords.en	,attributes.date,attributes.artist,attributes.genre,attributes.price
+rock_1,vinyl,product-type,A Fever You Can't Sweat Out,,jazz,A Fever You Can't Sweat Out,,2005,Panic! at the Disco,rock,25 $
+rock_2,vinyl,product-type,"Too Weird to Live, Too Rare to Die!",,jazz,"Too Weird to Live, Too Rare to Die!",,2013,Panic! at the Disco,rock,15 $
+rock_3,vinyl,product-type,Pray for the Wicked,,jazz,Pray for the Wicked,,2018,Panic! at the Disco,rock,10 $
+rock_4,vinyl,product-type,Comatose,,jazz,Comatose,,2006,Skillet,rock,25 $
+rock_7,vinyl,product-type,Awake,,jazz,Awake,,2009,Skillet,rock,25 $
+rock_8,vinyl,product-type,Rise,,jazz,Rise,,2013,Skillet,rock,15 $
+rock_9,vinyl,product-type,Unleashed,,jazz,Unleashed,,2016,Skillet,rock,15 $
+rock_10,vinyl,product-type,Crush,,jazz,Crush,,2000,Bon Jovi,rock,30 $
+rock_11,vinyl,product-type,Have A Nice Day,,jazz,Have A Nice Day,,2005,Bon Jovi,rock,20 $
+rock_12,vinyl,product-type,Bon Jovi Greatest Hits,,jazz,Bon Jovi Greatest Hits,,2010,Bon Jovi,rock,25 $
+rock_13,vinyl,product-type,2020,,jazz,2020,,2020,Bon Jovi,rock,20 $
+rock_14,vinyl,product-type,Blood Sugar Sex Magik,,jazz,Blood Sugar Sex Magik,,1991,Red Hot Chilli Peppers,rock,30 $
+rock_15,vinyl,product-type,Out In L.A.,,jazz,Out In L.A.,,1994,Red Hot Chilli Peppers,rock,50 $
+rock_16,vinyl,product-type,One Hot Minute,,jazz,One Hot Minute,,1995,Red Hot Chilli Peppers,rock,30 $
+rock_17,vinyl,product-type,Californication,,jazz,Californication,,1999,Red Hot Chilli Peppers,rock,25 $
+rock_18,vinyl,product-type,Stadium Arcadium,,jazz,Stadium Arcadium,,2006,Red Hot Chilli Peppers,rock,50 $
+rock_19,vinyl,product-type,I'm with You,,jazz,I'm with You,,2011,Red Hot Chilli Peppers,rock,40 $
+rock_20,vinyl,product-type,Infest,,jazz,Infest,,2000,Papa Roach,rock,30 $
+rock_21,vinyl,product-type,Getting Away With Murder,,jazz,Getting Away With Murder,,2004,Papa Roach,rock,35 $
+rock_22,vinyl,product-type,The Paramour Sessions,,jazz,The Paramour Sessions,,2006,Papa Roach,rock,20 $
+rock_23,vinyl,product-type,To Be Loved: The Best Of Papa Roach,,jazz,To Be Loved: The Best Of Papa Roach,,2010,Papa Roach,rock,30 $
+rock_24,vinyl,product-type,Hybrid Theory,,jazz,Hybrid Theory,,2000,Linkin park,rock,30 $
+rock_25,vinyl,product-type,Meteora,,jazz,Meteora,,2003,Linkin park,rock,20 $
+rock_26,vinyl,product-type,Minutes To Midnight,,jazz,Minutes To Midnight,,2007,Linkin park,rock,30 $
+rock_27,vinyl,product-type,Living Things,,jazz,Living Things,,2012,Linkin park,rock,20 $
+rock_28,vinyl,product-type,One More Light,,jazz,One More Light,,2017,Linkin park,rock,20 $
+rock_29,vinyl,product-type,"Everybody Else Is Doing It, So Why Can't We?",,jazz,"Everybody Else Is Doing It, So Why Can't We?",,1993,The Cranberries,rock,30 $
+rock_30,vinyl,product-type,No Need to Argue,,jazz,No Need to Argue,,1994,The Cranberries,rock,35 $
+rock_31,vinyl,product-type,Wake Up And Smell The Coffee,,jazz,Wake Up And Smell The Coffee,,2001,The Cranberries,rock,40 $
+rock_32,vinyl,product-type,Gold,,jazz,Gold,,2008,The Cranberries,rock,30 $
+rock_33,vinyl,product-type,The Colour and the Shape,,jazz,The Colour and the Shape,,1997,Foo Fighters,rock,25 $
+rock_34,vinyl,product-type,Three Days Grace,,jazz,Three Days Grace,,2003,Three Days Grace,rock,15 $
+rock_35,vinyl,product-type,One-X,,jazz,One-X,,2006,Three Days Grace,rock,20 $
+rock_36,vinyl,product-type,Life Starts Now,,jazz,Life Starts Now,,2009,Three Days Grace,rock,20 $
+rock_37,vinyl,product-type,Human,,jazz,Human,,2015,Three Days Grace,rock,15 $
+rock_38,vinyl,product-type,Outsider,,jazz,Outsider,,2022,Three Days Grace,rock,20 $
+rock_39,vinyl,product-type,One Fierce Beer Coaster,,jazz,One Fierce Beer Coaster,,1996,Bloodhound Gang,rock,50 $
+rock_40,vinyl,product-type,Hooray For Boobies,,jazz,Hooray For Boobies,,1999,Bloodhound Gang,rock,20 $
+rock_41,vinyl,product-type,Hefty Fine,,jazz,Hefty Fine,,2005,Bloodhound Gang,rock,25 $
+rock_42,vinyl,product-type,Show Us Your Hits,,jazz,Show Us Your Hits,,2011,Bloodhound Gang,rock,40 $
+rock_43,vinyl,product-type,Vessel,,jazz,Vessel,,2013,Twenty One Pilots,rock,30 $
+rock_44,vinyl,product-type,Blurryface,,jazz,Blurryface,,2015,Twenty One Pilots,rock,40 $
+rock_45,vinyl,product-type,Trench,,jazz,Trench,,2018,Twenty One Pilots,rock,35 $
+rock_46,vinyl,product-type,Location Sessions,,jazz,Location Sessions,,2021,Twenty One Pilots,rock,25 $
+metal_5,vinyl,product-type,A Decade of Destruction,,jazz,A Decade of Destruction,,2017,Five Finger Death Punch,metal,20 $
+metal_6,vinyl,product-type,F8,,jazz,F8,,2020,Five Finger Death Punch,metal,25 $
+metal_47,vinyl,product-type,Fallen,,jazz,Fallen,,2003,Evanescence,metal,20 $
+metal_48,vinyl,product-type,The Open Door,,jazz,The Open Door,,2006,Evanescence,metal,30 $
+metal_49,vinyl,product-type,Ride The Lightning,,jazz,Ride The Lightning,,1984,Metallica,metal,20 $
+metal_50,vinyl,product-type,Master Of Puppets,,jazz,Master Of Puppets,,1986,Metallica,metal,50 $
+metal_51,vinyl,product-type,Load,,jazz,Load,,1996,Metallica,metal,25 $
+metal_52,vinyl,product-type,S&M,,jazz,S&M,,1999,Metallica,metal,40 $
+metal_53,vinyl,product-type,Sehnsucht,,jazz,Sehnsucht,,1997,Rammstein,metal,45 $
+metal_54,vinyl,product-type,Mutter,,jazz,Mutter,,2001,Rammstein,metal,40 $
+metal_55,vinyl,product-type,"Reise, Reise",,jazz,"Reise, Reise",,2004,Rammstein,metal,35 $
+metal_56,vinyl,product-type,Rosenrot,,jazz,Rosenrot,,2005,Rammstein,metal,35 $
+metal_57,vinyl,product-type,Liebe Ist Für Alle Da,,jazz,Liebe Ist Für Alle Da,,2009,Rammstein,metal,50 $
+metal_58,vinyl,product-type,No Regrets,,jazz,No Regrets,,2009,Dope,metal,15 $
+metal_59,vinyl,product-type,Ten Thousand Fists,,jazz,Ten Thousand Fists,,2005,Disturbed,metal,20 $
+metal_60,vinyl,product-type,Immortalized,,jazz,Immortalized,,2015,Disturbed,metal,25 $
+metal_61,vinyl,product-type,Antennas to Hell,,jazz,Antennas to Hell,,2012,Slipknot,metal,20 $
+metal_62,vinyl,product-type,.5: The Gray Chapter,,jazz,.5: The Gray Chapter,,2014,Slipknot,metal,25 $
+metal_63,vinyl,product-type,We Are Not Your Kind,,jazz,We Are Not Your Kind,,2019,Slipknot,metal,25 $
+metal_64,vinyl,product-type,Toxicity,,jazz,Toxicity,,2001,System of a Down,metal,15 $
+metal_65,vinyl,product-type,Hypnotize,,jazz,Hypnotize,,2005,System of a Down,metal,20 $
+rap-hip-hop_66,vinyl,product-type,17,,jazz,17,,2017,XXXTentacion,rap-hip-hop,40 $
+rap-hip-hop_67,vinyl,product-type,SKINS,,jazz,SKINS,,2018,XXXTentacion,rap-hip-hop,45 $
+rap-hip-hop_68,vinyl,product-type,?,,jazz,?,,2019,XXXTentacion,rap-hip-hop,30 $
+rap-hip-hop_69,vinyl,product-type,Best Of 50 Cent,,jazz,Best Of 50 Cent,,2017,50 Cent,rap-hip-hop,25 $
+rap-hip-hop_70,vinyl,product-type,The Slim Shady,,jazz,The Slim Shady,,1999,Eminem,rap-hip-hop,60$
+rap-hip-hop_71,vinyl,product-type,Marshall Mathers,,jazz,Marshall Mathers,,2001,Eminem,rap-hip-hop,45 $
+rap-hip-hop_72,vinyl,product-type,Encore,,jazz,Encore,,2004,Eminem,rap-hip-hop,35 $
+rap-hip-hop_73,vinyl,product-type,Curtain Call: The Hits,,jazz,Curtain Call: The Hits,,2005,Eminem,rap-hip-hop,30 $
+rap-hip-hop_74,vinyl,product-type,Recovery,,jazz,Recovery,,2010,Eminem,rap-hip-hop,40 $
+rap-hip-hop_75,vinyl,product-type,Music To Be Murdered By,,jazz,Music To Be Murdered By,,2020,Eminem,rap-hip-hop,45 $
+rap-hip-hop_76,vinyl,product-type,Gangsta's Paradise,,jazz,Gangsta's Paradise,,1995,Coolio,rap-hip-hop,15 $
+rap-hip-hop_77,vinyl,product-type,TattleTales,,jazz,TattleTales,,2020,6ix9ine,rap-hip-hop,25 $
+rap-hip-hop_78,vinyl,product-type,The Best Of DMX,,jazz,The Best Of DMX,,2010,DMX,rap-hip-hop,25 $
+rap-hip-hop_79,vinyl,product-type,a modern tragedy vol. 1,,jazz,a modern tragedy vol. 1,,2018,grandson,rap-hip-hop,20 $
+rap-hip-hop_80,vinyl,product-type,Antares,,jazz,Antares,,2018,Kris Wu,rap-hip-hop,20 $
+rap-hip-hop_81,vinyl,product-type,In My Lifetime Vol.1,,jazz,In My Lifetime Vol.1,,1997,Jay-Z,rap-hip-hop,40 $
+rap-hip-hop_82,vinyl,product-type,Vol.2… Hard Knock Life,,jazz,Vol.2… Hard Knock Life,,1998,Jay-Z,rap-hip-hop,40 $
+rap-hip-hop_83,vinyl,product-type,The Blueprint,,jazz,The Blueprint,,2001,Jay-Z,rap-hip-hop,60 $
+rap-hip-hop_84,vinyl,product-type,Collision Course,,jazz,Collision Course,,2004,Jay-Z,rap-hip-hop,15 $
+rap-hip-hop_85,vinyl,product-type,Confessions of a Dangerous Mind,,jazz,Confessions of a Dangerous Mind,,2019,Logic,rap-hip-hop,20 $
+rap-hip-hop_86,vinyl,product-type,No Pressure,,jazz,No Pressure,,2020,Logic,rap-hip-hop,20 $
+rap-hip-hop_87,vinyl,product-type,Bobby Tarantino III,,jazz,Bobby Tarantino III,,2021,Logic,rap-hip-hop,40 $
+rap-hip-hop_88,vinyl,product-type,"good kid, m.A.A.d. city",,jazz,"good kid, m.A.A.d. city",,2012,Kendrick Lamar,rap-hip-hop,50 $
+rap-hip-hop_89,vinyl,product-type,To Pimp A Butterfly,,jazz,To Pimp A Butterfly,,2015,Kendrick Lamar,rap-hip-hop,30 $
+rap-hip-hop_90,vinyl,product-type,DAMN.,,jazz,DAMN.,,2017,Kendrick Lamar,rap-hip-hop,35 $
+rap-hip-hop_91,vinyl,product-type,Fear Of God II: Let Us Pray,,jazz,Fear Of God II: Let Us Pray,,2011,Pusha T,rap-hip-hop,30 $
+rap-hip-hop_92,vinyl,product-type,DAYTONA,,jazz,DAYTONA,,2018,Pusha T,rap-hip-hop,40 $
+rap-hip-hop_93,vinyl,product-type,Diet Coke,,jazz,Diet Coke,,2022,Pusha T,rap-hip-hop,30 $
+rap-hip-hop_94,vinyl,product-type,Graduation,,jazz,Graduation,,2007,Kanye West,rap-hip-hop,25 $
+rap-hip-hop_95,vinyl,product-type,ye,,jazz,ye,,2018,Kanye West,rap-hip-hop,40 $
+rap-hip-hop_96,vinyl,product-type,Donda (Deluxe),,jazz,Donda (Deluxe),,2021,Kanye West,rap-hip-hop,95 $
+rap-hip-hop_97,vinyl,product-type,Tha Carter IV,,jazz,Tha Carter IV,,2011,Lil Wayne,rap-hip-hop,20 $
+rap-hip-hop_98,vinyl,product-type,The Search,,jazz,The Search,,2019,NF,rap-hip-hop,30 $
+rap-hip-hop_99,vinyl,product-type,Take Care,,jazz,Take Care,,2011,Drake,rap-hip-hop,40 $
+rap-hip-hop_100,vinyl,product-type,If You’re Reading This Its too Late,,jazz,If You’re Reading This Its too Late,,2015,Drake,rap-hip-hop,50 $
+rap-hip-hop_101,vinyl,product-type,Views,,jazz,Views,,2016,Drake,rap-hip-hop,25 $
+rap-hip-hop_102,vinyl,product-type,Scorpion,,jazz,Scorpion,,2018,Drake,rap-hip-hop,45 $
+rap-hip-hop_103,vinyl,product-type,Me Against The World,,jazz,Me Against The World,,1995,2Pac,rap-hip-hop,40 $
+rap-hip-hop_104,vinyl,product-type,All Eyez On Me,,jazz,All Eyez On Me,,1996,2Pac,rap-hip-hop,75 $
+rap-hip-hop_105,vinyl,product-type,Until The End Of Time,,jazz,Until The End Of Time,,2001,2Pac,rap-hip-hop,70 $
+rap-hip-hop_106,vinyl,product-type,Strictly 4 My N.I.G.G.A.Z...,,jazz,Strictly 4 My N.I.G.G.A.Z...,,2011,2Pac,rap-hip-hop,40 $
+rap-hip-hop_107,vinyl,product-type,Birds In The Trap Sing Mcknight,,jazz,Birds In The Trap Sing Mcknight,,2016,Travis Scott,rap-hip-hop,50 $
+rap-hip-hop_108,vinyl,product-type,Astroworld,,jazz,Astroworld,,2018,Travis Scott,rap-hip-hop,55 $
+rap-hip-hop_109,vinyl,product-type,Utopia,,jazz,Utopia,,2023,Travis Scott,rap-hip-hop,70 $
+rap-hip-hop_110,vinyl,product-type,Scum F*ck Flower Boy,,jazz,Scum F*ck Flower Boy,,2017,"Tyler, the creator",rap-hip-hop,50 $
+rap-hip-hop_111,vinyl,product-type,IGOR,,jazz,IGOR,,2019,"Tyler, the creator",rap-hip-hop,50 $
+rap-hip-hop_112,vinyl,product-type,CALL ME IF YOU GET LOST,,jazz,CALL ME IF YOU GET LOST,,2021,"Tyler, the creator",rap-hip-hop,50 $
+rap-hip-hop_113,vinyl,product-type,House of Balloons,,jazz,House of Balloons,,2011,The Weeknd,rap-hip-hop,50 $
+rap-hip-hop_114,vinyl,product-type,Kiss Land,,jazz,Kiss Land,,2013,The Weeknd,rap-hip-hop,50 $
+rap-hip-hop_115,vinyl,product-type,Starboy,,jazz,Starboy,,2016,The Weeknd,rap-hip-hop,50 $
+rap-hip-hop_116,vinyl,product-type,After Hours,,jazz,After Hours,,2020,The Weeknd,rap-hip-hop,55 $
+rap-hip-hop_117,vinyl,product-type,Dawn FM,,jazz,Dawn FM,,2022,The Weeknd,rap-hip-hop,45 $
+rap-hip-hop_118,vinyl,product-type,Eversince,,jazz,Eversince,,2014,Bladee,rap-hip-hop,35 $
+rap-hip-hop_119,vinyl,product-type,333,,jazz,333,,2016,Bladee,rap-hip-hop,40 $
+rap-hip-hop_120,vinyl,product-type,Cold Visions,,jazz,Cold Visions,,2024,Bladee,rap-hip-hop,30 $
+rap-hip-hop_121,vinyl,product-type,Unknown Memory,,jazz,Unknown Memory,,2014,Yung Lean,rap-hip-hop,30 $
+rap-hip-hop_122,vinyl,product-type,Warlord,,jazz,Warlord,,2016,Yung Lean,rap-hip-hop,40 $
+rap-hip-hop_123,vinyl,product-type,Stranger,,jazz,Stranger,,2017,Yung Lean,rap-hip-hop,30 $
+pop_1,vinyl,product-type,dont smile at me,,jazz,dont smile at me,,2017,Billie Eilish,pop,15 $
+pop_2,vinyl,product-type,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",,jazz,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",,2019,Billie Eilish,pop,20 $
+pop_3,vinyl,product-type,Happier Than Ever,,jazz,Happier Than Ever,,2021,Billie Eilish,pop,25 $
+pop_4,vinyl,product-type,In Between,,jazz,In Between,,2007,Paul van Dyk,pop,20 $
+pop_5,vinyl,product-type,Last Man Standing,,jazz,Last Man Standing,,2019,E-type,pop,25 $
+pop_6,vinyl,product-type,One Of The Boys,,jazz,One Of The Boys,,2008,Katy Perry,pop,40 $
+pop_7,vinyl,product-type,Teenage Dream,,jazz,Teenage Dream,,2010,Katy Perry,pop,55 $
+pop_8,vinyl,product-type,Cosmic Energy,,jazz,Cosmic Energy,,2020,Katy Perry,pop,30 $
+pop_9,vinyl,product-type,Elephunk,,jazz,Elephunk,,2003,Black Eyed Peas,pop,30 $
+pop_10,vinyl,product-type,THE E.N.D. (THE ENERGY NEVER DIES),,jazz,THE E.N.D. (THE ENERGY NEVER DIES),,2009,Black Eyed Peas,pop,40 $
+pop_11,vinyl,product-type,The Beginning,,jazz,The Beginning,,2010,Black Eyed Peas,pop,50 $
+pop_12,vinyl,product-type,The Fame,,jazz,The Fame,,2008,Lady Gaga,pop,40 $
+pop_13,vinyl,product-type,The Fame Monster,,jazz,The Fame Monster,,2009,Lady Gaga,pop,30 $
+pop_14,vinyl,product-type,Chromatica,,jazz,Chromatica,,2020,Lady Gaga,pop,15 $
+pop_15,vinyl,product-type,Loud,,jazz,Loud,,2011,Rihanna,pop,40 $
+pop_15,vinyl,product-type,Unapologetic,,jazz,Unapologetic,,2012,Rihanna,pop,40 $
+pop_16,vinyl,product-type,ANTI,,jazz,ANTI,,2016,Rihanna,pop,45 $
+jazz_1,vinyl,product-type,"100 Jazz Masterpices, Vol.19",,jazz,"100 Jazz Masterpices, Vol.19",,2012,Various Artists,jazz,15 $
+jazz_2,vinyl,product-type,Chet's Choice,,jazz,Chet's Choice,,1985,Chet Baker,jazz,15 $
+jazz_3,vinyl,product-type,Classic Jones,,jazz,Classic Jones,,2020,Norah Jones,jazz,20 $
+jazz_4,vinyl,product-type,Doo-Bop,,jazz,Doo-Bop,,1992,Miles Davis,jazz,30 $
+jazz_5,vinyl,product-type,It's Time,,jazz,It's Time,,2005,Michael Bublé,jazz,20 $
+jazz_6,vinyl,product-type,Wild Is The Wind,,jazz,Wild Is The Wind,,1959,Nina Simone,jazz,35 $
+jazz_7,vinyl,product-type,In Concert,,jazz,In Concert,,1964,Nina Simone,jazz,35 $
+jazz_8,vinyl,product-type,My Way,,jazz,My Way,,2007,Nina Simone,jazz,15 $
+jazz_9,vinyl,product-type,Soprano Sax,,jazz,Soprano Sax,,1996,Steve Lacy,jazz,40 $
+jazz_10,vinyl,product-type,Songs For Swingin' Lovers,,jazz,Songs For Swingin' Lovers,,1956,Frank Sinatra,jazz,40 $
+jazz_11,vinyl,product-type,A Jolly Christmas From Frank Sinatra,,jazz,A Jolly Christmas From Frank Sinatra,,1957,Frank Sinatra,jazz,40 $
+jazz_12,vinyl,product-type,The World We Knew,,jazz,The World We Knew,,1966,Frank Sinatra,jazz,30 $
+jazz_13,vinyl,product-type,Totally Ella,,jazz,Totally Ella,,2012,Ella Fitzgerald,jazz,10 $
+jazz_14,vinyl,product-type,What a Wonderful World,,jazz,What a Wonderful World,,1967,Louis Armstrong,jazz,70 $
+jazz_15,vinyl,product-type,Now'S The Time,,jazz,Now'S The Time,,1945,Charlie Parker,jazz,30 $
+jazz_16,vinyl,product-type,Bird and Diz,,jazz,Bird and Diz,,1952,Charlie Parker,jazz,35 $
+jazz_17,vinyl,product-type,Maiden Voyage,,jazz,Maiden Voyage,,1965,Herbie Hancock,jazz,30 $
+jazz_18,vinyl,product-type,Speak Like A Child,,jazz,Speak Like A Child,,1968,Herbie Hancock,jazz,40 $
+jazz_19,vinyl,product-type,Head Hunters,,jazz,Head Hunters,,1973,Herbie Hancock,jazz,70 $
+jazz_20,vinyl,product-type,Julie Is Her Name,,jazz,Julie Is Her Name,,1955,Julie London,jazz,90 $
+jazz_21,vinyl,product-type,Latin In A Satin Mood,,jazz,Latin In A Satin Mood,,1963,Julie London,jazz,60 $
+ost_1,vinyl,product-type,Bohemian Rhapsody: The Original Soundtrack,,jazz,Bohemian Rhapsody: The Original Soundtrack,,2018,Queen,ost,50 $
+ost_2,vinyl,product-type,Mad Max: Fury Road - Original Motion Picture Soundtrack,,jazz,Mad Max: Fury Road - Original Motion Picture Soundtrack,,2015,Tom Holkenborg,ost,30 $
+ost_3,vinyl,product-type,Deadpool: The Original Soundtrack,,jazz,Deadpool: The Original Soundtrack,,2016,Tom Holkenborg,ost,50 $
+ost_4,vinyl,product-type,Prison Break: Original Television Soundtrack,,jazz,Prison Break: Original Television Soundtrack,,2014,Ramin Djawadi,ost,15 $
+ost_5,vinyl,product-type,Game Of Thrones: Music From The HBO Series,,jazz,Game Of Thrones: Music From The HBO Series,,2019,Ramin Djawadi,ost,30 $
+ost_6,vinyl,product-type,The Dark Knight Soundtrack,,jazz,The Dark Knight Soundtrack,,2008,Hans Zimmer,ost,45 $
+ost_7,vinyl,product-type,Interstellar: The Original Soundtrack,,jazz,Interstellar: The Original Soundtrack,,2014,Hans Zimmer,ost,40 $
+ost_8,vinyl,product-type,Inception: Original Motion Picture Soundtrack,,jazz,Inception: Original Motion Picture Soundtrack,,2010,Hans Zimmer,ost,30 $
+ost_9,vinyl,product-type,Blade Runner 2049 Soundtrack,,jazz,Blade Runner 2049 Soundtrack,,2017,Hans Zimmer,ost,20 $
+ost_10,vinyl,product-type,La La Land: The Original Soundtrack,,jazz,La La Land: The Original Soundtrack,,2016,Justin Hurwitz,ost,25 $
+ost_11,vinyl,product-type,Pulp Fiction: Music From The Motion Picture Soundtrack,,jazz,Pulp Fiction: Music From The Motion Picture Soundtrack,,2008,Various Artists,ost,10 $
+ost_12,vinyl,product-type,Shrek: Original Motion Picture Score,,jazz,Shrek: Original Motion Picture Score,,2001,Harry Gregson-Williams,ost,65 $
+ost_13,vinyl,product-type,Shrek 2: The Original Soundtrack,,jazz,Shrek 2: The Original Soundtrack,,2004,Harry Gregson-Williams,ost,30 $
+ost_14,vinyl,product-type,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe - Original Motion Picture Soundtrack",,jazz,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe - Original Motion Picture Soundtrack",,2005,Harry Gregson-Williams,ost,50 $
+ost_15,vinyl,product-type,X-Men Origins: Wolverine - Original Motion Picture Soundtrack,,jazz,X-Men Origins: Wolverine - Original Motion Picture Soundtrack,,2009,Harry Gregson-Williams,ost,10 $
+ost_16,vinyl,product-type,Spider-Man: The Original Soundtrack,,jazz,Spider-Man: The Original Soundtrack,,2002,Danny Elfman,ost,25 $
+ost_17,vinyl,product-type,Fifty Shades Of Grey: Original Motion Picture Score,,jazz,Fifty Shades Of Grey: Original Motion Picture Score,,2015,Danny Elfman,ost,30 $
+ost_18,vinyl,product-type,Justice League: Original Motion Picture Soundtrack,,jazz,Justice League: Original Motion Picture Soundtrack,,2017,Danny Elfman,ost,50 $
+ost_19,vinyl,product-type,Transformers: The Original Soundtrack,,jazz,Transformers: The Original Soundtrack,,2007,Steve Jablonsky,ost,15 $
+ost_20,vinyl,product-type,A Nightmare On Elm Street: Original Motion Picture Score,,jazz,A Nightmare On Elm Street: Original Motion Picture Score,,2010,Steve Jablonsky,ost,20 $
+ost_21,vinyl,product-type,Pain & Gain: Original Motion Picture Score,,jazz,Pain & Gain: Original Motion Picture Score,,2014,Steve Jablonsky,ost,10 $
+punk_1,vinyl,product-type,American Idiot,,jazz,American Idiot,,2004,Green Day,punk,20 $
+punk_2,vinyl,product-type,21st Century Breakdown,,jazz,21st Century Breakdown,,2009,Green Day,punk,20 $
+punk_3,vinyl,product-type,Revolution Radio,,jazz,Revolution Radio,,2016,Green Day,punk,20 $
+punk_4,vinyl,product-type,Does This Look Infected?,,jazz,Does This Look Infected?,,2002,Sum 41,punk,30 $
+punk_5,vinyl,product-type,Chuck,,jazz,Chuck,,2004,Sum 41,punk,50 $
+punk_6,vinyl,product-type,Screaming Bloody Murder,,jazz,Screaming Bloody Murder,,2011,Sum 41,punk,50 $
+punk_7,vinyl,product-type,13 Voices,,jazz,13 Voices,,2016,Sum 41,punk,25 $
+punk_8,vinyl,product-type,Order In Decline,,jazz,Order In Decline,,2019,Sum 41,punk,25 $
+punk_9,vinyl,product-type,blink-182,,jazz,blink-182,,2003,Blink-182,punk,55 $
+punk_10,vinyl,product-type,Greatest Hits,,jazz,Greatest Hits,,2005,Blink-183,punk,20 $
+punk_11,vinyl,product-type,California,,jazz,California,,2017,Blink-184,punk,30 $
+punk_12,vinyl,product-type,"Never Mind The Bollocks, Here's The Sex Pistols",,jazz,"Never Mind The Bollocks, Here's The Sex Pistols",,1977,Sex Pistols,punk,20 $
+punk_13,vinyl,product-type,Conspiracy Of One,,jazz,Conspiracy Of One,,2000,Offspring,punk,20 $
+punk_14,vinyl,product-type,Greatest Hits,,jazz,Greatest Hits,,2005,Offspring,punk,25 $
+punk_15,vinyl,product-type,"Rise And Fall, Rage And Grace",,jazz,"Rise And Fall, Rage And Grace",,2008,Offspring,punk,30 $
+punk_16,vinyl,product-type,Days Go By,,jazz,Days Go By,,2012,Offspring,punk,30 $
+punk_17,vinyl,product-type,Siren Song Of The Counter Culture,,jazz,Siren Song Of The Counter Culture,,2005,Rise Against,punk,20 $
+punk_18,vinyl,product-type,The Sufferer & The Witness,,jazz,The Sufferer & The Witness,,2006,Rise Against,punk,15 $
+punk_19,vinyl,product-type,Endgame,,jazz,Endgame,,2011,Rise Against,punk,20 $
+punk_20,vinyl,product-type,Wolves,,jazz,Wolves,,2017,Rise Against,punk,25 $
+punk_21,vinyl,product-type,Walk the Plank,,jazz,Walk the Plank,,2015,Zebrahead,punk,15 $
