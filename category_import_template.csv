@@ -1,0 +1,8 @@
+data-object,key,name.en,slug.en,description.en,description.de-DE,externalId,parent.key,parent.typeId,orderHint,metaTitle.en,metaDescription.en,metaKeywords.en,custom.type.key,custom.type.typeId,custom.fields.boolean-field,custom.fields.string-field,custom.fields.localized-string-field.en,custom.fields.money-field.currencyCode,custom.fields.money-field.centAmount,custom.fields.money-field.type,custom.fields.money-field.fractionDigits,custom.fields.enum-field,custom.fields.date-field,custom.fields.time-field,custom.fields.date-time-field,assets.key,assets.name.en,assets.sources.uri,assets.description.en,assets.tags
+,jazz,jazz,slug-jazz,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,metal,metal,slug-metal,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ost,ost,slug-ost,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,pop,pop,slug-pop,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,punk,punk,slug-punk,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,rap,"rap/hip-hop",slug-rap,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,rock,rock,slug-rock,,,,,,,,,,,,,,,,,,,,,,,,,,,
